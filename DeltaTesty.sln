@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaTesty", "DeltaTesty\DeltaTesty.csproj", "{569F039F-C3B7-41BE-995E-42C3AB5BB912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaTesty.Tests", "DeltaTesty.Tests\DeltaTesty.Tests.csproj", "{EE10738E-4B4C-4B53-8375-AA7ACB6C838B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569F039F-C3B7-41BE-995E-42C3AB5BB912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569F039F-C3B7-41BE-995E-42C3AB5BB912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569F039F-C3B7-41BE-995E-42C3AB5BB912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569F039F-C3B7-41BE-995E-42C3AB5BB912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE10738E-4B4C-4B53-8375-AA7ACB6C838B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE10738E-4B4C-4B53-8375-AA7ACB6C838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE10738E-4B4C-4B53-8375-AA7ACB6C838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE10738E-4B4C-4B53-8375-AA7ACB6C838B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1289E58-4E25-4F92-B772-3822DEA5F995}
+	EndGlobalSection
+EndGlobal
